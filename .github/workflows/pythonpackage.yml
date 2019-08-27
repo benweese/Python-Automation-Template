@@ -19,7 +19,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
       run: |
-       brew install brew-cask
+       brew install brew-cask-completion
        brew cask install google-chrome
        sudo pip3 install pipenv
        pipenv install --dev
