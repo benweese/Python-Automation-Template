@@ -8,7 +8,7 @@
 This project is for practicing Python, Selenium, and Pytest. You can find the link for the template above for creating your own automation. To learn more you can check out the [Wiki](https://github.com/benweese/Python-Automation/wiki) for this repo where I document what I have learned. 
 
 ## Badges
-[![CircleCI](https://circleci.com/gh/benweese/Python-Automation-Template/tree/master.svg?style=shield)](https://circleci.com/gh/benweese/Python-Automation-Template/tree/master) ![GitHub](https://img.shields.io/github/license/benweese/Python-Automation-Template.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/benweese/Python-Automation-Template.svg) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/benweese/python-automation)
+[![CircleCI](https://circleci.com/gh/benweese/Python-Automation-Template/tree/master.svg?style=shield)](https://circleci.com/gh/benweese/Python-Automation-Template/tree/master) ![Actions](https://github.com/benweese/Python-Automation-Template/workflows/Python%20package/badge.svg) ![GitHub](https://img.shields.io/github/license/benweese/Python-Automation-Template.svg) ![GitHub issues](https://img.shields.io/github/issues-raw/benweese/Python-Automation-Template.svg) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/benweese/python-automation)
 
 ## Motivation
 
