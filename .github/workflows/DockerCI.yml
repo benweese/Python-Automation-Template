@@ -1,5 +1,9 @@
+name: Docker CI
+
+on: [push]
+
 jobs:
-  my_first_job:
+  build:
     steps:
       - name: Using my Docker
         uses: docker://benweese/test_automation
