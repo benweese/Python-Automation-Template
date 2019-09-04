@@ -1,0 +1,11 @@
+jobs:
+  my_first_job:
+    steps:
+      - name: Using my Docker
+        uses: docker://benweese/test_automation
+      - uses: actions/checkout@v1
+      - name: Install dependencies
+        run: pipenv install --dev
+      - name: Test with pytest
+        run: |
+          pipenv run pytest
